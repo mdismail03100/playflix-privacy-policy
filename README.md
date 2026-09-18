@@ -1,9 +1,10 @@
-# 🚀 PlayFlix Download Manager
+# 🚀 PlayFlix Download Manager (IDM Turbo)
 
-Official public release and privacy policy page for **PlayFlix Download Manager (IDM)** for Windows.
+Official public release, screenshots, and privacy policy page for **PlayFlix Download Manager (IDM)** for Windows.
 
 [![GitHub Release](https://img.shields.io/github/v/release/mdismail03100/playflix-privacy-policy?style=flat-square&color=blue)](https://github.com/mdismail03100/playflix-privacy-policy/releases/latest)
 [![Windows](https://img.shields.io/badge/Platform-Windows_10_%2F_11_(64--bit)-0078D4?style=flat-square&logo=windows)](https://github.com/mdismail03100/playflix-privacy-policy/releases/latest)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 
 ---
 
@@ -13,6 +14,19 @@ Official public release and privacy policy page for **PlayFlix Download Manager 
   *(Recommended: 1-Click Install with Desktop Shortcut & Browser integration)*
 - 🔹 **[Download Portable Edition (.exe)](https://github.com/mdismail03100/playflix-privacy-policy/releases/download/v1.0.0/PlayFlix.Download.Manager.1.0.0.Portable.exe)**  
   *(Runs anywhere directly without installation)*
+
+---
+
+## 📸 Screenshots (ইন্টারফেস প্রিভিউ)
+
+### 1. Main IDM Dashboard & Tasks Manager
+![PlayFlix IDM Dashboard](screenshots/dashboard.png)
+
+### 2. Multi-Stream Turbo Download Progress & 60 FPS Real-Time Graph
+![Download Progress & Speed Graph](screenshots/progress.png)
+
+### 3. Smart Browser Video & Stream Detector Panel (Chrome, Edge & Brave)
+![Browser Video Detector](screenshots/detector.png)
 
 ---
 
